@@ -1,0 +1,249 @@
+.name
+{
+    position: absolute;
+width: 351px;
+height: 178px;
+left: 200px;
+top: 1700px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 120%;
+/* or 29px */
+
+
+color: #000000;
+}
+
+.address
+{
+    position: absolute;
+width: 351px;
+height: 178px;
+left: 200px;
+top: 1740px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 120%;
+/* or 29px */
+
+
+color: #000000;
+}
+
+.pnum1
+{
+    position: absolute;
+width: 351px;
+height: 178px;
+left: 200px;
+top: 1780px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 120%;
+/* or 29px */
+
+
+color: #000000;
+}
+
+.pnum2
+{
+    position: absolute;
+width: 351px;
+height: 178px;
+left: 200px;
+top: 1820px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 120%;
+/* or 29px */
+
+
+color: #000000;
+}
+
+.email
+{
+    position: absolute;
+width: 351px;
+height: 178px;
+left: 200px;
+top: 1860px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 120%;
+/* or 29px */
+
+
+color: #000000;
+}
+
+.headoffice
+{
+    position: absolute;
+width: 351px;
+height: 178px;
+left: 800px;
+top: 1650px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 20px;
+line-height: 120%;
+}
+
+.mon-sat
+{
+    position: absolute;
+width: 351px;
+height: 178px;
+left: 800px;
+top: 1700px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 120%;
+}
+
+.mon-sat-time
+{
+    position: absolute;
+width: 351px;
+height: 178px;
+left: 1100px;
+top: 1700px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 120%;
+}
+
+.sun
+{
+    position: absolute;
+width: 351px;
+height: 178px;
+left: 800px;
+top: 1730px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 120%;
+}
+.sun-time
+{
+    position: absolute;
+width: 351px;
+height: 178px;
+left: 1100px;
+top: 1730px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 120%;
+}
+.branches
+{
+    position: absolute;
+width: 351px;
+height: 178px;
+left: 800px;
+top: 1800px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 20px;
+line-height: 120%;
+}
+.b-mon-sat
+{
+    position: absolute;
+width: 351px;
+height: 178px;
+left: 800px;
+top: 1850px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 120%;
+}
+
+.b-mon-sat-time
+{
+    position: absolute;
+width: 351px;
+height: 178px;
+left: 1100px;
+top: 1850px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 120%;
+}
+
+.b-sun
+{
+    position: absolute;
+width: 351px;
+height: 178px;
+left: 800px;
+top: 1880px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 120%;
+}
+.b-sun-time
+{
+    position: absolute;
+width: 351px;
+height: 178px;
+left: 1100px;
+top: 1880px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 120%;
+}
+
+.logos
+{
+    position: absolute;
+width: 500px;
+height: auto;
+left: 800px;
+top: 1950px;
+}

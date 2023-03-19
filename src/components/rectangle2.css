@@ -1,0 +1,10 @@
+.rectangle2
+{
+    position: absolute;
+width: 719px;
+height: 500px;
+left: 800px;
+top: 190px;
+
+background: linear-gradient(180deg, #FFFFFF 0%, #FFEEB3 100%);
+}

@@ -1,0 +1,105 @@
+.headlogin
+{
+    position: absolute;
+width: 174px;
+height: 67px;
+left:690px;
+top: 200px;
+display: flex;
+justify-content: center;
+font-family: 'Josefin Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 30px;
+line-height: 120%;
+/* or 67px */
+
+
+color: #8E8F7A;
+
+}
+
+/* .login-container {
+  display: flex;
+  flex-direction: column; 
+  justify-content: center;
+  align-items: center;
+  position:absolute;
+  height: 750px;
+  width:200px;
+  left:700px;
+  } */
+  .login-container {
+    
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 300px; /* set the height to 500px */
+    width: 400px; 
+    background-color:#FFEEB3;
+    position: absolute; /* set the position to absolute */
+    top: 70%; /* position the top edge of the container at the middle of the viewport */
+    left: 50%; /* position the left edge of the container at the middle of the viewport */
+    transform: translate(-50%, -70%);
+    border-radius: 10px;
+    padding: 10px;
+
+  }
+
+
+  label {
+    display: block;
+    margin-bottom: 10px;
+    font-size: 16px;
+ text-align: left !important;
+ font-weight: 600;
+  }
+  
+  input {
+    display: block;
+    padding: 10px;
+    margin-bottom: 20px;
+    border-radius: 10px;
+    border: #000000;
+    box-shadow: 0px 0px 5px rgba(150, 107, 211, 0.1);
+    width: 250px !important;
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 12px;
+    line-height: 1.5;
+  }
+  
+  input[type="email"] {
+    background-color: #ffffff;
+  }
+  
+  input[type="password"] {
+    background-color: #ffffff;
+  }
+  
+  button{
+  padding: 10px;
+  background: #E8C95C;
+  border-radius: 7px;
+  text-align: center !important;
+  border: none;
+  cursor: pointer;
+  transition: background-color 0.5s;
+  font-family: 'Josefin Sans';
+  font-style: normal;
+  font-weight: 400;
+  color: rgb(0, 0, 0)!important;
+  
+
+ 
+  margin-top: 20px;
+  }
+  
+  .button:hover {
+  background-color:#177e28;
+  }
+  .error {
+    color: red;
+    margin-top: 5px;
+  }
+  

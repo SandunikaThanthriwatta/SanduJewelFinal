@@ -1,0 +1,278 @@
+.ctn1
+{
+    position: absolute;
+    width: auto;
+    height: 29px;
+    top: 1060px;
+    left: 231px; 
+    
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 120%;
+    /* identical to box height, or 29px */
+    
+    
+    color: #000000; 
+}
+
+.ctn2
+{
+    position: absolute;
+    width: auto;
+    height: 29px;
+    top: 1060px;
+    left: 551px; 
+    
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 120%;
+    /* identical to box height, or 29px */
+    
+    
+    color: #000000; 
+}
+
+.ctn3
+{
+    position: absolute;
+    width: auto;
+    height: 29px;
+    top: 1060px;
+    left: 871px; 
+    
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 120%;
+    /* identical to box height, or 29px */
+    
+    
+    color: #000000; 
+}
+
+.ctn4
+{
+    position: absolute;
+    width: auto;
+    height: 29px;
+    top: 1060px;
+    left: 1191px; 
+    
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 120%;
+    /* identical to box height, or 29px */
+    
+    
+    color: #000000; 
+}
+
+.earing1
+{
+    position: absolute;
+    width: auto;
+    height: 29px;
+    top: 1410px;
+    left: 280px; 
+    
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 120%;
+    /* identical to box height, or 29px */
+    
+    
+    color: #000000; 
+}
+
+.rings2
+{
+    position: absolute;
+    width: auto;
+    height: 29px;
+    top: 1410px;
+    left: 620px; 
+    
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 120%;
+    /* identical to box height, or 29px */
+    
+    
+    color: #000000; 
+}
+
+.ring1
+{
+    position: absolute;
+    width: auto;
+    height: 29px;
+    top: 1410px;
+    left: 950px; 
+    
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 120%;
+    /* identical to box height, or 29px */
+    
+    
+    color: #000000; 
+}
+
+.earings2
+{
+    position: absolute;
+    width: auto;
+    height: 29px;
+    top: 1410px;
+    left: 1250px; 
+    
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 120%;
+    /* identical to box height, or 29px */
+    
+    
+    color: #000000; 
+}
+
+.ctn1-p
+{
+    position: absolute;
+    width: auto;
+    height: 29px;
+    top: 1090px;
+    left: 260px;
+    
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 120%;
+    /* identical to box height, or 29px */
+    
+    
+    color: #000;  
+    
+}
+
+.ctn2-p
+{
+    position: absolute;
+    width: 250px;
+    height: 250px;
+    left: 595px;
+    top: 1090px;
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 120%;
+    color: #000; 
+}
+
+.ctn3-p
+{
+    position: absolute;
+    width: 250px;
+    height: 250px;
+    left: 915px;
+    top: 1090px;
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 120%;
+    color: #000; 
+}
+
+.ctn4-p
+{
+    position: absolute;
+    width: 250px;
+    height: 250px;
+    left: 1235px;
+    top: 1090px;
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 120%;
+    color: #000; 
+}
+
+.ring1-p
+{
+
+    position: absolute;
+    width: 250px;
+    height: 250px;
+    left: 270px;
+    top: 1440px;
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 120%;
+    color: #000; 
+}
+
+.rings2-p
+{
+    position: absolute;
+    width: 250px;
+    height: 250px;
+    left: 585px;
+    top: 1440px;
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 120%;
+    color: #000; 
+}
+
+.earing1-p
+{
+    position: absolute;
+    width: 250px;
+    height: 250px;
+    left: 923px;
+    top: 1440px;
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 120%;
+    color: #000; 
+}
+
+.earings2-p
+{
+    position: absolute;
+    width: 250px;
+    height: 250px;
+    left: 1240px;
+    top: 1440px;
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 120%;
+    color: #000; 
+}
+

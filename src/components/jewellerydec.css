@@ -1,0 +1,642 @@
+.necklaces
+{
+    position: absolute;
+    width: auto;
+    height: 29px;
+    top: 200px;
+    left: 100px; 
+    
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 120%;
+    /* identical to box height, or 29px */
+    
+    
+    color:  #E8C95C; 
+}
+
+.earings
+{
+    position: absolute;
+    width: auto;
+    height: 29px;
+    top: 800px;
+    left: 100px; 
+    
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 120%;
+    /* identical to box height, or 29px */
+    
+    
+    color:  #E8C95C; 
+}
+
+.rings
+{
+    position: absolute;
+    width: auto;
+    height: 29px;
+    top: 500px;
+    left: 100px; 
+    
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 120%;
+    /* identical to box height, or 29px */
+    
+    
+    color:  #E8C95C; 
+}
+
+.bracelets
+{
+    position: absolute;
+    width: auto;
+    height: 29px;
+    top: 1100px;
+    left: 100px; 
+    
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 120%;
+    /* identical to box height, or 29px */
+    
+    
+    color:  #E8C95C; 
+}
+
+.n1-p
+{
+    position: absolute;
+    width: 150;
+    height: 29px;
+    top: 420px;
+    left: 123px; 
+    
+    
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 120%;
+    /* identical to box height, or 29px */
+    
+    
+    color:  #000; 
+}
+
+.n2-p
+{
+    position: absolute;
+    width: 150;
+    height: 29px;
+    top: 420px;
+    left: 323px; 
+    
+    
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 120%;
+    /* identical to box height, or 29px */
+    
+    
+    color:  #000; 
+}
+.n3-p
+{
+    position: absolute;
+    width: 150;
+    height: 29px;
+    top: 420px;
+    left: 523px; 
+    
+    
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 120%;
+    /* identical to box height, or 29px */
+    
+    
+    color:  #000; 
+}
+.n4-p
+{
+    position: absolute;
+    width: 150;
+    height: 29px;
+    top: 420px;
+    left: 723px; 
+    
+    
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 120%;
+    /* identical to box height, or 29px */
+    
+    
+    color:  #000; 
+}
+.n5-p
+{
+    position: absolute;
+    width: 150;
+    height: 29px;
+    top: 420px;
+    left: 923px; 
+    
+    
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 120%;
+    /* identical to box height, or 29px */
+    
+    
+    color:  #000; 
+}
+.n6-p
+{
+    position: absolute;
+    width: 150;
+    height: 29px;
+    top: 420px;
+    left: 1123px; 
+    
+    
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 120%;
+    /* identical to box height, or 29px */
+    
+    
+    color:  #000; 
+}
+.n7-p
+{
+    position: absolute;
+    width: 150;
+    height: 29px;
+    top: 420px;
+    left: 1323px; 
+    
+    
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 120%;
+    /* identical to box height, or 29px */
+    
+    
+    color:  #000; 
+}
+.r1-p
+{
+    position: absolute;
+    width: 150;
+    height: 29px;
+    top: 720px;
+    left: 123px; 
+    
+    
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 120%;
+    /* identical to box height, or 29px */
+    
+    
+    color:  #000; 
+}
+
+.r2-p
+{
+    position: absolute;
+    width: 150;
+    height: 29px;
+    top: 720px;
+    left: 323px; 
+    
+    
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 120%;
+    /* identical to box height, or 29px */
+    
+    
+    color:  #000; 
+}
+.r3-p
+{
+    position: absolute;
+    width: 150;
+    height: 29px;
+    top: 720px;
+    left: 523px; 
+    
+    
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 120%;
+    /* identical to box height, or 29px */
+    
+    
+    color:  #000; 
+}
+.r4-p
+{
+    position: absolute;
+    width: 150;
+    height: 29px;
+    top: 720px;
+    left: 723px; 
+    
+    
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 120%;
+    /* identical to box height, or 29px */
+    
+    
+    color:  #000; 
+}
+.r5-p
+{
+    position: absolute;
+    width: 150;
+    height: 29px;
+    top: 720px;
+    left: 923px; 
+    
+    
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 120%;
+    /* identical to box height, or 29px */
+    
+    
+    color:  #000; 
+}
+.r6-p
+{
+    position: absolute;
+    width: 150;
+    height: 29px;
+    top: 720px;
+    left: 1123px; 
+    
+    
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 120%;
+    /* identical to box height, or 29px */
+    
+    
+    color:  #000; 
+}
+.r7-p
+{
+    position: absolute;
+    width: 150;
+    height: 29px;
+    top: 720px;
+    left: 1323px; 
+    
+    
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 120%;
+    /* identical to box height, or 29px */
+    
+    
+    color:  #000; 
+}
+
+.e1-p
+{
+    position: absolute;
+    width: 150;
+    height: 29px;
+    top: 1020px;
+    left: 123px; 
+    
+    
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 120%;
+    /* identical to box height, or 29px */
+    
+    
+    color:  #000; 
+}
+
+.e2-p
+{
+    position: absolute;
+    width: 150;
+    height: 29px;
+    top: 1020px;
+    left: 323px; 
+    
+    
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 120%;
+    /* identical to box height, or 29px */
+    
+    
+    color:  #000; 
+}
+.e3-p
+{
+    position: absolute;
+    width: 150;
+    height: 29px;
+    top: 1020px;
+    left: 523px; 
+    
+    
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 120%;
+    /* identical to box height, or 29px */
+    
+    
+    color:  #000; 
+}
+.e4-p
+{
+    position: absolute;
+    width: 150;
+    height: 29px;
+    top: 1020px;
+    left: 723px; 
+    
+    
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 120%;
+    /* identical to box height, or 29px */
+    
+    
+    color:  #000; 
+}
+.e5-p
+{
+    position: absolute;
+    width: 150;
+    height: 29px;
+    top: 1020px;
+    left: 923px; 
+    
+    
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 120%;
+    /* identical to box height, or 29px */
+    
+    
+    color:  #000; 
+}
+.e6-p
+{
+    position: absolute;
+    width: 150;
+    height: 29px;
+    top: 1020px;
+    left: 1123px; 
+    
+    
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 120%;
+    /* identical to box height, or 29px */
+    
+    
+    color:  #000; 
+}
+.e7-p
+{
+    position: absolute;
+    width: 150;
+    height: 29px;
+    top: 1020px;
+    left: 1323px; 
+    
+    
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 120%;
+    /* identical to box height, or 29px */
+    
+    
+    color:  #000; 
+}
+.b1-p
+{
+    position: absolute;
+    width: 150;
+    height: 29px;
+    top: 1320px;
+    left: 123px; 
+    
+    
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 120%;
+    /* identical to box height, or 29px */
+    
+    
+    color:  #000; 
+}
+
+.b2-p
+{
+    position: absolute;
+    width: 150;
+    height: 29px;
+    top: 1320px;
+    left: 323px; 
+    
+    
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 120%;
+    /* identical to box height, or 29px */
+    
+    
+    color:  #000; 
+}
+.b3-p
+{
+    position: absolute;
+    width: 150;
+    height: 29px;
+    top: 1320px;
+    left: 523px; 
+    
+    
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 120%;
+    /* identical to box height, or 29px */
+    
+    
+    color:  #000; 
+}
+.b4-p
+{
+    position: absolute;
+    width: 150;
+    height: 29px;
+    top: 1320px;
+    left: 723px; 
+    
+    
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 120%;
+    /* identical to box height, or 29px */
+    
+    
+    color:  #000; 
+}
+.b5-p
+{
+    position: absolute;
+    width: 150;
+    height: 29px;
+    top: 1320px;
+    left: 923px; 
+    
+    
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 120%;
+    /* identical to box height, or 29px */
+    
+    
+    color:  #000; 
+}
+.b6-p
+{
+    position: absolute;
+    width: 150;
+    height: 29px;
+    top: 1320px;
+    left: 1123px; 
+    
+    
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 120%;
+    /* identical to box height, or 29px */
+    
+    
+    color:  #000; 
+}
+.b7-p
+{
+    position: absolute;
+    width: 150;
+    height: 29px;
+    top: 1320px;
+    left: 1323px; 
+    
+    
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 120%;
+    /* identical to box height, or 29px */
+    
+    
+    color:  #000; 
+}
+.order
+    
+  {
+   width:150px;
+   height:40px;
+    background: #E8C95C;
+    border-radius: 7px;
+    text-align: center !important;
+    border: none;
+    cursor: pointer;
+    transition: background-color 0.5s;
+    font-family: 'Josefin Sans';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    color: rgb(0, 0, 0)!important;
+    position:absolute;
+    top:1450px;
+    left:700px;
+  
+   
+    margin-top: 20px;
+    }
+    
+    .order:hover {
+    background-color:   rgb(237, 234, 154);
+    border: 2px solid #E8C95C;
+
+    }

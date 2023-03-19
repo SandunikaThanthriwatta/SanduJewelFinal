@@ -1,0 +1,98 @@
+.featured
+{
+    position: absolute;
+width: 346px;
+height: 45px;
+left: 700px;
+top: 720px;
+
+font-family: 'Josefin Sans';
+font-style: italic;
+font-weight: 310;
+font-size: 30px;
+line-height: 120%;
+/* or 50px */
+
+
+color: #E8C95C;
+
+mix-blend-mode: normal;
+
+}
+
+
+.necklace1
+{
+    position: absolute;
+    width: 250px;
+    height: 250px;
+    left: 195px;
+    top: 800px;
+    
+    
+}
+
+.necklace2
+{
+    position: absolute;
+    width: 250px;
+    height: 250px;
+    left: 515px;
+    top: 800px;
+}
+
+.necklace3
+{
+    position: absolute;
+    width: 250px;
+    height: 250px;
+    left: 835px;
+    top: 800px;
+}
+
+.necklace4
+{
+    position: absolute;
+    width: 250px;
+    height: 250px;
+    left: 1155px;
+    top: 800px;
+}
+
+.ring
+{
+
+    position: absolute;
+    width: 250px;
+    height: 250px;
+    left: 515px;
+    top: 1150px;
+}
+
+.ring2
+{
+    position: absolute;
+    width: 250px;
+    height: 250px;
+    left: 835px;
+    top: 1150px;
+}
+
+.earing
+{
+    position: absolute;
+    width: 250px;
+    height: 250px;
+    left: 1155px;
+    top: 1150px;
+}
+
+.earing2
+{
+    position: absolute;
+    width: 250px;
+    height: 250px;
+    left: 195px;
+    top: 1150px;
+}
+

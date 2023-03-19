@@ -1,0 +1,81 @@
+
+.home
+{
+    position: absolute;
+    width: 135px;
+    height: 29px;
+    top: 125px;
+    background-color: transparent;
+    border-color: transparent;
+
+    left: 550px;
+    
+    font-family: 'Josefin Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 120%;
+    /* identical to box height, or 29px */
+    
+    
+    color: #000000;
+}
+
+.home:hover{
+    color: rgba(232, 201, 92, 1)!important;
+    background-color: transparent;
+    border-color: transparent;
+}
+
+.jewellery
+{
+    position: absolute;
+    width: 135px;
+height: 29px;
+top: 125px;
+left:700px;
+
+font-family: 'Josefin Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 120%;
+/* identical to box height, or 29px */
+background-color: transparent;
+    border-color: transparent;
+
+color: #000000;
+}
+.jewellery:hover{
+    color: rgba(232, 201, 92, 1)!important;
+    background-color: transparent;
+    border-color: transparent;
+}
+
+
+
+.login
+{
+    position: absolute;
+    width: 135px;
+height: 29px;
+top: 125px;
+left: 850px;
+
+font-family: 'Josefin Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 120%;
+/* identical to box height, or 29px */
+background-color: transparent;
+    border-color: transparent;
+
+color: #000000;
+}
+.login:hover{
+    color: rgba(232, 201, 92, 1)!important;
+    background-color: transparent;
+    border-color: transparent;
+}
+

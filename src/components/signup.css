@@ -1,0 +1,226 @@
+.headsignup
+{
+    position: absolute;
+width: 174px;
+height: 67px;
+left:690px;
+top: 175px;
+display: flex;
+justify-content: center;
+font-family: 'Josefin Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 30px;
+line-height: 120%;
+/* or 67px */
+
+
+color: #8E8F7A;
+
+}
+
+.log{
+  position: absolute;
+  top: 160px;
+  left: 1117px;
+  font-family: 'Josefin Sans';
+  font-style: normal;
+  font-weight: 570;
+  color:black ;
+}
+.login2
+{
+
+  
+    background: transparent;
+    border-radius: 7px;
+    text-align: center !important;
+    border: none;
+    cursor: pointer;
+    transition: background-color 0.5s;
+    font-family: 'Josefin Sans';
+    font-style: normal;
+    font-weight: 570;
+    color: rgb(0, 0, 0)!important;
+    position: absolute;
+    top: 132px;
+    left: 1300px;
+  
+   
+    
+    }
+    
+    .login2:hover {
+     
+    color: #E8C95C!important;
+    
+    }
+
+
+/* .login-container {
+  display: flex;
+  flex-direction: column; 
+  justify-content: center;
+  align-items: center;
+  position:absolute;
+  height: 750px;
+  width:200px;
+  left:700px;
+  } */
+  .form {
+    
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 500px; /* set the height to 500px */
+    width: 500px; 
+    background-color:#FFEEB3;
+    position: absolute; /* set the position to absolute */
+    top: 150%; /* position the top edge of the container at the middle of the viewport */
+    left: 50%; /* position the left edge of the container at the middle of the viewport */
+    transform: translate(-50%, -150%);
+    border-radius: 10px;
+    padding: 10px;
+    
+
+  }
+
+ 
+
+  
+
+  
+  button{
+  padding: 10px;
+  background: #E8C95C;
+  border-radius: 7px;
+  color: rgb(0, 0, 0);
+  border: none;
+  cursor: pointer;
+  transition: background-color 0.3s;
+  font-family: 'Josefin Sans';
+  font-style: normal;
+  font-weight: 570;
+
+ 
+  margin-top: 20px;
+  }
+  
+  .button:hover {
+  background-color:#177e28;
+  }
+.user_name
+{
+  display: block;
+    margin-bottom: 10px;
+    text-align: left!important;
+   
+    font-weight: 600;
+}
+
+.user_nic
+{
+  display: block;
+    margin-bottom: 10px;
+    text-align: left!important;
+    font-weight: 600;
+}
+
+.user_email
+{
+  display: block;
+    margin-bottom: 10px;
+    align-items: left!important;
+    font-weight: 600;
+}
+
+.user_password
+{
+  display: block;
+    margin-bottom: 10px;
+    text-align: left !important;
+    font-weight: 600;
+}
+
+.uname_input
+  {
+    display: block;
+    padding: 10px;
+    margin-bottom: 20px;
+    border-radius: 10px;
+    border: #000000;
+    box-shadow: 0px 0px 5px rgba(150, 107, 211, 0.1);
+    width: 350px !important;
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 12px;
+    line-height: 1.5;
+    text-align: center;
+  }
+
+  .unic_input
+  {
+    display: block;
+    padding: 10px;
+    margin-bottom: 20px;
+    border-radius: 10px;
+    border: #000000;
+    box-shadow: 0px 0px 5px rgba(150, 107, 211, 0.1);
+    width: 350px !important;
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 12px;
+    line-height: 1.5;
+    text-align: center;
+  }
+
+  .uemail_input
+  {
+    display: block;
+    padding: 10px;
+    margin-bottom: 20px;
+    border-radius: 10px;
+    border: #000000;
+    box-shadow: 0px 0px 5px rgba(150, 107, 211, 0.1);
+    width: 350px !important;
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 12px;
+    line-height: 1.5;
+    text-align: center;
+  }
+
+  .upass_input
+  {
+    display: block;
+    padding: 10px;
+    margin-bottom: 20px;
+    border-radius: 10px;
+    border: #000000;
+    box-shadow: 0px 0px 5px rgba(150, 107, 211, 0.1);
+    width: 350px !important;
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 12px;
+    line-height: 1.5;
+    text-align: center;
+    
+  }
+
+  .uname_input[type="text"]
+  {
+    background-color: #ffffff;
+    text-align: center!important;
+  }
+
+  .unic_input[type="text"]
+  {
+    background-color: #ffffff;
+  }
+
+  .uemail_input[type="email"]
+  {
+    background-color: #ffffff;
+  }
+
+  .user_password[type="password"]
+  {
+    background-color: #ffffff;
+  }

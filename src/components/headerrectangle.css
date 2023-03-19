@@ -1,0 +1,17 @@
+.headerrectangle {
+    position: absolute;
+    width: 1519px;
+    height: 140px; 
+    background: #f8efbd;
+    left: 0px;
+top: 0px;
+  }
+
+  .logo
+  {
+      position: absolute;
+      width: 200px;
+      height: auto;
+      left: 663px;
+      top: 0px;
+  } 

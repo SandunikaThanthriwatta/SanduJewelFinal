@@ -1,0 +1,539 @@
+
+
+.n1
+{
+    position: absolute;
+    width: 150px;
+    height: 150px;
+    left: 100px;
+    top: 250px;
+    
+    
+}
+.n1:hover
+{
+    position: absolute;
+    width: 120px;
+    height: 120px;
+    left: 115px;
+    top: 265px;
+    border: 2px solid rgb(146, 146, 146);
+    
+}
+
+
+.n2
+{
+    position: absolute;
+    width: 150px;
+    height: 150px;
+    left: 300px;
+    top: 250px;
+}
+.n2:hover
+{
+    position: absolute;
+    width: 120px;
+    height: 120px;
+    left: 315px;
+    top: 265px;
+    border: 2px solid rgb(146, 146, 146);
+    
+}
+
+.n3
+{
+    position: absolute;
+    width: 150px;
+    height: 150px;
+    left: 500px;
+    top: 250px;
+}
+.n3:hover
+{
+    position: absolute;
+    width: 120px;
+    height: 120px;
+    left: 515px;
+    top: 265px;
+    border: 2px solid rgb(146, 146, 146);
+    
+}
+.n4
+{
+    position: absolute;
+    width: 150px;
+    height: 150px;
+    left: 700px;
+    top: 250px;
+}
+.n4:hover
+{
+    position: absolute;
+    width: 120px;
+    height: 120px;
+    left: 715px;
+    top: 265px;
+    border: 2px solid rgb(146, 146, 146);
+    
+}
+.n5
+{
+    position: absolute;
+    width: 150px;
+    height: 150px;
+    left: 900px;
+    top: 250px;
+}
+
+.n5:hover
+{
+    position: absolute;
+    width: 120px;
+    height: 120px;
+    left: 915px;
+    top: 265px;
+    border: 2px solid rgb(146, 146, 146);
+    
+}
+
+.n6
+{
+    position: absolute;
+    width: 150px;
+    height: 150px;
+    left: 1100px;
+    top: 250px;
+}
+
+.n6:hover
+{
+    position: absolute;
+    width: 120px;
+    height: 120px;
+    left: 1115px;
+    top: 265px;
+    border: 2px solid rgb(146, 146, 146);
+    
+}
+.n7
+{
+    position: absolute;
+    width: 150px;
+    height: 150px;
+    left: 1300px;
+    top: 250px;
+}
+
+.n7:hover
+{
+    position: absolute;
+    width: 120px;
+    height: 120px;
+    left: 1315px;
+    top: 265px;
+    border: 2px solid rgb(146, 146, 146);
+    
+}
+
+.r1
+{
+    position: absolute;
+    width: 150px;
+    height: 150px;
+    left: 100px;
+    top: 550px;
+    
+    
+}
+.r1:hover
+{
+    position: absolute;
+    width: 120px;
+    height: 120px;
+    left: 115px;
+    top: 565px;
+    border: 2px solid rgb(146, 146, 146);
+    
+}
+
+
+
+.r2
+{
+    position: absolute;
+    width: 150px;
+    height: 150px;
+    left: 300px;
+    top: 550px;
+}
+.r2:hover
+{
+    position: absolute;
+    width: 120px;
+    height: 120px;
+    left: 315px;
+    top: 565px;
+    border: 2px solid rgb(146, 146, 146);
+    
+}
+
+.r3
+{
+    position: absolute;
+    width: 150px;
+    height: 150px;
+    left: 500px;
+    top: 550px;
+}
+.r3:hover
+{
+    position: absolute;
+    width: 120px;
+    height: 120px;
+    left: 515px;
+    top: 565px;
+    border: 2px solid rgb(146, 146, 146);
+    
+}
+.r4
+{
+    position: absolute;
+    width: 150px;
+    height: 150px;
+    left: 700px;
+    top: 550px;
+}
+.r4:hover
+{
+    position: absolute;
+    width: 120px;
+    height: 120px;
+    left: 715px;
+    top: 565px;
+    border: 2px solid rgb(146, 146, 146);
+    
+}
+.r5
+{
+    position: absolute;
+    width: 150px;
+    height: 150px;
+    left: 900px;
+    top: 550px;
+}
+.r5:hover
+{
+    position: absolute;
+    width: 120px;
+    height: 120px;
+    left: 915px;
+    top: 565px;
+    border: 2px solid rgb(146, 146, 146);
+    
+}
+
+.r6
+{
+    position: absolute;
+    width: 150px;
+    height: 150px;
+    left: 1100px;
+    top: 550px;
+}
+.r6:hover
+{
+    position: absolute;
+    width: 120px;
+    height: 120px;
+    left: 1115px;
+    top: 565px;
+    border: 2px solid rgb(146, 146, 146);
+    
+}
+.r7
+{
+    position: absolute;
+    width: 150px;
+    height: 150px;
+    left: 1300px;
+    top: 550px;
+}
+.r7:hover
+{
+    position: absolute;
+    width: 120px;
+    height: 120px;
+    left: 1315px;
+    top: 565px;
+    border: 2px solid rgb(146, 146, 146);
+    
+}
+
+.e1
+{
+    position: absolute;
+    width: 150px;
+    height: 150px;
+    left: 100px;
+    top: 850px;
+    
+    
+}
+.e1:hover
+{
+    position: absolute;
+    width: 120px;
+    height: 120px;
+    left: 115px;
+    top: 865px;
+    border: 2px solid rgb(146, 146, 146);
+    
+}
+
+
+
+.e2
+{
+    position: absolute;
+    width: 150px;
+    height: 150px;
+    left: 300px;
+    top: 850px;
+}
+
+.e2:hover
+{
+    position: absolute;
+    width: 120px;
+    height: 120px;
+    left: 315px;
+    top: 865px;
+    border: 2px solid rgb(146, 146, 146);
+    
+}
+.e3
+{
+    position: absolute;
+    width: 150px;
+    height: 150px;
+    left: 500px;
+    top: 850px;
+}
+.e3:hover
+{
+    position: absolute;
+    width: 120px;
+    height: 120px;
+    left: 515px;
+    top: 865px;
+    border: 2px solid rgb(146, 146, 146);
+    
+}
+.e4
+{
+    position: absolute;
+    width: 150px;
+    height: 150px;
+    left: 700px;
+    top: 850px;
+}
+.e4:hover
+{
+    position: absolute;
+    width: 120px;
+    height: 120px;
+    left: 715px;
+    top: 865px;
+    border: 2px solid rgb(146, 146, 146);
+    
+}
+.e5
+{
+    position: absolute;
+    width: 150px;
+    height: 150px;
+    left: 900px;
+    top: 850px;
+}
+.e5:hover
+{
+    position: absolute;
+    width: 120px;
+    height: 120px;
+    left: 915px;
+    top: 865px;
+    border: 2px solid rgb(146, 146, 146);
+    
+}
+
+.e6
+{
+    position: absolute;
+    width: 150px;
+    height: 150px;
+    left: 1100px;
+    top: 850px;
+}
+.e6:hover
+{
+    position: absolute;
+    width: 120px;
+    height: 120px;
+    left: 1115px;
+    top: 865px;
+    border: 2px solid rgb(146, 146, 146);
+    
+}
+.e7
+{
+    position: absolute;
+    width: 150px;
+    height: 150px;
+    left: 1300px;
+    top: 850px;
+}
+.e7:hover
+{
+    position: absolute;
+    width: 120px;
+    height: 120px;
+    left: 1315px;
+    top: 865px;
+    border: 2px solid rgb(146, 146, 146);
+    
+}
+
+.b1
+{
+    position: absolute;
+    width: 150px;
+    height: 150px;
+    left: 100px;
+    top: 1150px;
+    
+    
+}
+.b1:hover
+{
+    position: absolute;
+    width: 120px;
+    height: 120px;
+    left: 115px;
+    top: 1165px;
+    border: 2px solid rgb(146, 146, 146);
+    
+}
+
+
+
+.b2
+{
+    position: absolute;
+    width: 150px;
+    height: 150px;
+    left: 300px;
+    top: 1150px;
+}
+.b2:hover
+{
+    position: absolute;
+    width: 120px;
+    height: 120px;
+    left: 315px;
+    top: 1165px;
+    border: 2px solid rgb(146, 146, 146);
+    
+}
+
+.b3
+{
+    position: absolute;
+    width: 150px;
+    height: 150px;
+    left: 500px;
+    top: 1150px;
+}
+.b3:hover
+{
+    position: absolute;
+    width: 120px;
+    height: 120px;
+    left: 515px;
+    top: 1165px;
+    border: 2px solid rgb(146, 146, 146);
+    
+}
+.b4
+{
+    position: absolute;
+    width: 150px;
+    height: 150px;
+    left: 700px;
+    top: 1150px;
+}
+.b4:hover
+{
+    position: absolute;
+    width: 120px;
+    height: 120px;
+    left: 715px;
+    top: 1165px;
+    border: 2px solid rgb(146, 146, 146);
+    
+}
+.b5
+{
+    position: absolute;
+    width: 150px;
+    height: 150px;
+    left: 900px;
+    top: 1150px;
+}
+.b5:hover
+{
+    position: absolute;
+    width: 120px;
+    height: 120px;
+    left: 915px;
+    top: 1165px;
+    border: 2px solid rgb(146, 146, 146);
+    
+}
+
+.b6
+{
+    position: absolute;
+    width: 150px;
+    height: 150px;
+    left: 1100px;
+    top: 1150px;
+}
+.b6:hover
+{
+    position: absolute;
+    width: 120px;
+    height: 120px;
+    left: 1115px;
+    top: 1165px;
+    border: 2px solid rgb(146, 146, 146);
+    
+}
+.b7
+{
+    position: absolute;
+    width: 150px;
+    height: 150px;
+    left: 1300px;
+    top: 1150px;
+}
+.b7:hover
+{
+    position: absolute;
+    width: 120px;
+    height: 120px;
+    left: 1315px;
+    top: 1165px;
+    border: 2px solid rgb(146, 146, 146);
+    
+}
